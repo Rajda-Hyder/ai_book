@@ -363,4 +363,4 @@ void stop() {
 
 ---
 
-**Next Module:** [Module 2: Programming Your First Robot →](/docs/module-2-programming/lesson-2-1-python-basics)
+**Next Module:** [Module 2: Programming Your First Robot →](../module-2-programming/lesson-2-1-python-basics)
